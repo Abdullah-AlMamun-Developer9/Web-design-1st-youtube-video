@@ -1,0 +1,213 @@
+
+@media screen and (max-width: 1200px) {
+	.navbar {
+		width: 100%;
+		height: 100px;
+	}
+	ul {
+		margin-left: 30px;
+	}
+	ul li {
+		margin-left: 60px;
+	}
+	ul li a {
+		font-size: 1.6vw;
+	}
+	.search {
+		margin-top: 3px;
+		margin-left: 290px;
+	}
+	.srch {
+		height: 18px;
+		width: 190px;
+		font-size: 14px;
+	}
+	.btn1 {
+		height: 40px;
+		width: 80px;
+	}
+	.content {
+		width: 100%;
+	}
+	.content h1, .content span {
+		font-size: 4.5vw;
+	}
+	.content .par {
+		width: 90%;
+		font-size: 1.5vw;
+	}
+	.content .cn {
+		width: 13%;
+		height: 3.5vw;
+		font-size: 1.8vw;
+	}
+	.content a {
+		font-size: 1.6vw;
+	}
+	.header-area {
+		padding-left: 20px;
+		height: 180vh;
+	}
+	.form {
+		top: 670px;
+		left: 50px;
+		margin-left: -10px;
+	}
+	.btn2 a {
+		font-size: 16px;
+	}
+	.form .link a {
+		font: 16px;
+	}
+}
+
+@media screen and (max-width: 830px) {
+	.content {
+		margin-top: 30px;
+		width: 80%;
+		margin-left: 40px;
+	}
+	.content h1, .content span {
+		font-size: 6vw;
+	}
+	.content .par {
+		width: 100%;
+		font-size: 1.5vw;
+		letter-spacing: 0.7px;
+	}
+	.content .cn {
+		width: 15%;
+		height: 4.5vw;
+		font-size: 2vw;
+	}
+	.content a {
+		font-size: 2vw;
+	}
+	.form a {
+		font-size: 17px;
+	}
+	.logo {
+		margin-left: 275px;
+		width: 100%;
+		margin-top: 15px;
+		font-size: 5vw;
+	}
+	.menu {
+		width: 100%;
+	}
+	ul {
+		margin-top: -5px;
+	}
+	ul li {
+		margin-left: 60px;
+	}
+	ul li a {
+		font-size: 2vw;
+	}
+	.search {
+		margin-top: -20px;
+		margin-left: 60px;
+	}
+	.srch {
+		height: 8px;
+		width: 160px;
+		font-size: 12px;
+	}
+	.btn1 {
+		height: 30px;
+		width: 70px;
+	}
+}
+@media screen and (max-width: 600px) {
+	.content {
+		margin-top: 20px;
+		margin-left: 20px;
+	}
+	.search {
+		margin-top: -40px;
+		margin-left: 42px;
+	}
+	.logo {
+		margin-left: 190px;
+		font-size: 4vw;
+	}
+	ul {
+		margin-top: -25px;
+		margin-left: -5px;
+	}
+	ul li {
+		margin-left: 50px;
+	}
+	.form {
+		top: 560px;
+		left: 60px;
+		margin-left: 0px;
+	  }
+}
+
+@media screen and (max-width: 450px) {
+	.logo {
+		margin-left: 155px;
+		font-size: 4vw;
+	}
+	ul li {
+		margin-left: 42px;
+	}
+	.search {
+		margin-left: 38px;
+	}
+	.form {
+		top: 510px;
+	}
+}
+@media screen and (max-width: 390px) {
+	.logo {
+		margin-left: 128px;
+	}
+	ul {
+		margin-left: -20px;
+	}
+	ul li {
+		margin-left: 30px;
+	}
+	.search {
+		margin-left: 11px;
+	}
+	.content {
+		margin-top: 10px;
+		margin-left: -10px;
+	}
+	.content .par {
+		padding-bottom: 10px;
+		letter-spacing: 0.5px;
+		line-height: 20px;
+	}
+	.form {
+		top: 440px;
+		left: 30px;
+	}
+}
+@media screen and (max-width: 350px) {
+	.logo {
+		margin-left: 113px;
+	}
+	ul {
+		margin-left: -28px;
+	}
+	.search {
+		margin-left: 3px;
+	}
+	.content {
+		margin-top: 5px;
+		margin-left: -17px;
+	}
+	.content .par {
+		padding-bottom: 8px;
+		line-height: 17px;
+	}
+	.form {
+		width: 240px;
+		top: 410px;
+		left: 22px;
+	}
+}
